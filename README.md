@@ -22,5 +22,5 @@
 ### Check out the dashboards on Tablea Public link
 |[Click here](https://public.tableau.com/shared/M67HGGW8J?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/M67HGGW8J?:display_count=n&:origin=viz_share_link/)|
 |---|
-|[Click here](https://github.com/)|
+|[Click here](https://public.tableau.com/app/profile/jamsran.davaajav/vizzes/)|
 |---|
