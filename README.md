@@ -4,5 +4,18 @@
 
 <a align="left"><b>🌍 Exploring the Evolution of Meat Supply Across Decades: 1961-2020 🥩 </b></a>
 
-### How can I help you?
-<img align="center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/WorldofMeat Supply.mp4" width=""/>
+### Tableau Visualization 
+<a target="">
+  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/d1.png" width="1000"/>
+</a>
+
+
+<details>
+  <summary><b>Click ▶️ down to check out more Insights</b></summary>
+  <img src="https://github.com/DJJamsran/images/blob/main/d2.png" alt="image-description"/>
+  <img src="https://github.com/DJJamsran/images/blob/main/d3.png" alt="image-description"/>
+</details>
+
+<br>
+
+### Check out the raw files in the folder 📂⬆️
